@@ -1,0 +1,1 @@
+// Java is an object-oriented programming (OOP) language, which means that we can design classes, objects, and methods that can perform certain actions. These behaviors are important in the construction of larger, more powerful Java programs.
