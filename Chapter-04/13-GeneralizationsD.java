@@ -26,5 +26,9 @@ public class GeneralizationsD {
     majorCities.put("London", 43);
     majorCities.put("Mexico City", 1521);
     majorCities.put("Sao Paulo", 1554);
+
+    for (String city : majorCities.keySet()) {
+      System.out.println(city + " was founded in " + majorCities.get(city));
+    }
   }
 }
