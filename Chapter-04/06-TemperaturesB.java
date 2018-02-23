@@ -24,6 +24,7 @@ public class TemperaturesB {
     weeklyTemperatures.add(67);
     weeklyTemperatures.add(89);
     weeklyTemperatures.add(94);
-    weeklyTemperatures.add(111, 2);
+    weeklyTemperatures.add(2, 111);
+    System.out.println(weeklyTemperatures.get(3));
   }
 }
